@@ -1,0 +1,40 @@
+main{
+  background-color:#CBC3C3;
+  margin: 25px 0;
+  padding:10px;
+  border-radius:15px;
+}
+title, h3{
+  text-align:center;
+}
+.img-div{
+  height: auto;
+  background-color:white;
+  padding:10px 0;
+  margin:10px
+}
+.image{
+  width:80%;
+  max-width:100%;
+  height:auto;
+  display:block;
+  margin:auto;
+}
+figcaption{
+  margin-left:12%;
+}
+.title{
+  margin:auto;
+  text-align:center;
+}
+.tribute-info{
+  margin-left:25%;
+  margin-right:25%;
+}
+.tribute-info p{
+  font-style:italic;
+}
+.tribute-link{
+  text-align:center;
+  font-weight:700;
+}
